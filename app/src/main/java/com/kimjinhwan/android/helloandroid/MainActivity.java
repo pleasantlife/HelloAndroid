@@ -69,6 +69,9 @@ public class MainActivity extends AppCompatActivity implements {
         }
     //지역변수로 하면 변경사항이 생기면 추후에 반영할 수 없다.
 
+
+
+
     @Override
     public void onClick(View v) {
         tv.setText("안녕 안드로이드!!!");
