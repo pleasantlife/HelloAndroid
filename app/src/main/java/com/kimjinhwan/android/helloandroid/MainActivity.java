@@ -6,8 +6,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.kimjinhwan.android.helloandroid.R;
-
 /**
  * 클릭리스너 구현하는 방법 세가지
  * 1. 위젯을 사용하는 객체가 상속받아서 구현
@@ -60,13 +58,3 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 
-
-
-
-
-
-
-    class SubActivity {
-
-    }
-}
